@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bastien Sulyan
 
-<!--
-**bsulyan/bsulyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer based in Strasbourg, France.
 
-Here are some ideas to get you started:
+I build **[Sunasty](https://sunasty.com)** — a suite of free, privacy-first
+file tools (PDF, image, video, audio) that run **entirely in your browser**.
+No upload, no server-side processing: your files never leave your device.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work with**
+- Client-side file processing (Web Workers, WebAssembly)
+- Image & PDF manipulation in the browser
+- Astro / TypeScript / Preact
+- Web privacy by design
+
+📫 contact@sunasty.com
