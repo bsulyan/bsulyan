@@ -1,15 +1,13 @@
 ## Bastien Sulyan
 
-Web developer based in Strasbourg, France.
+Independent software developer based in Strasbourg, France.
 
-I build **[Sunasty](https://sunasty.com)**, a suite of free, privacy-first
-file tools (PDF, image, video, audio) that run **entirely in your browser**.
-No upload, no server-side processing: your files never leave your device.
+- **[Sunasty](https://sunasty.com/)** — Free, browser-side file tools (PDF, image, audio, video, QR, and developer utilities) running locally via Web Workers and WebAssembly.
+- **[Ulysan](https://ulysan.fr/)** — Independent web studio in Strasbourg and offline mobile games ([Solitaire for Android](https://ulysan.fr/solitaire/)).
+- **[Technical Notes](https://bsulyan.github.io/)** — Implementation notes on client-side PDF parsing, EXIF/C2PA stripping, multi-scale QR decoding, OKLCH contrast math, and Web Audio pipelines.
 
-**What I work with**
-- Client-side file processing (Web Workers, WebAssembly)
-- Image & PDF manipulation in the browser
-- Astro / TypeScript / Preact
-- Web privacy by design
+**Open-source Chrome extensions**
+- [sunasty-qr-scanner](https://github.com/bsulyan/sunasty-qr-scanner) — Local QR Code Scanner & Generator (Manifest V3)
+- [sunasty-color-picker](https://github.com/bsulyan/sunasty-color-picker) — Eyedropper, OKLCH converter & WCAG 2.1 contrast checker (Manifest V3)
 
-📫 contact@sunasty.com
+Contact: contact@sunasty.com
