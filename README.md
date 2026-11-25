@@ -9,7 +9,7 @@ Independent software developer based in Strasbourg, France.
 
 **Open-source Browser Extensions (MIT, Manifest V3)**
 - [sunasty-qr-scanner](https://github.com/bsulyan/sunasty-qr-scanner) - Local QR Code Scanner & Generator ([Chrome](https://chromewebstore.google.com/detail/sunasty-qr-code-scanner-g/fbiighpklpogdbnhdapbiijcadhlijcb) · [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sunasty-qr-code-scanner-genera/) · [Edge](https://microsoftedge.microsoft.com/addons/detail/sunasty-qr-code-scanner-generator/npbppaegpbeefpfaffjgphjecmgbngab))
-- [sunasty-color-picker](https://github.com/bsulyan/sunasty-color-picker) - Eyedropper, OKLCH converter & WCAG 2.1 contrast checker ([GitHub](https://github.com/bsulyan/sunasty-color-picker))
+- [sunasty-color-picker](https://github.com/bsulyan/sunasty-color-picker) - Eyedropper, OKLCH converter & WCAG 2.1 contrast checker ([Edge](https://microsoftedge.microsoft.com/addons/detail/jcjfhbbmbnehefadhmhhegoccbdcfkgm) · [GitHub](https://github.com/bsulyan/sunasty-color-picker))
 
 **Open-source Zero-Dependency Libraries (MIT on npm & [JSR `@sunasty/*`](https://jsr.io/@sunasty))**
 - [har-clean](https://github.com/bsulyan/sunasty-har-sanitizer) ([npm](https://www.npmjs.com/package/har-clean) · [JSR](https://jsr.io/@sunasty/har-sanitizer)) - Whitelist HAR 1.2 sanitizer & CLI
