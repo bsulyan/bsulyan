@@ -4,7 +4,7 @@ Independent software developer based in Strasbourg, France.
 
 - **[Sunasty](https://sunasty.com/)** - 233 client-side file and developer tools across 32 languages (PDF, image, audio, video, EXIF/C2PA/HAR privacy inspection, Parquet/SQLite viewers, QR/barcodes, and calculators) running locally via Web Workers and WebAssembly.
 - **[Ulysan](https://ulysan.fr/)** - Independent web studio in Strasbourg and offline mobile games ([Solitaire for Android](https://ulysan.fr/solitaire/)).
-- **[Technical Notes](https://bsulyan.github.io/)** - 8 engineering notes covering client-side PDF parsing, EXIF/C2PA stripping, HAR whitelist sanitization, Swiss tournament tiebreak math, Code 128 vector SVG encoding, multi-scale QR decoding, OKLCH contrast math, and Web Audio pipelines.
+- **[Technical Notes](https://bsulyan.github.io/)** - 10 engineering notes covering deterministic JSON AST type inference, SQLite3/Parquet binary decoding, client-side PDF parsing, EXIF/C2PA stripping, HAR whitelist sanitization, Swiss tournament tiebreak math, Code 128 SVG encoding, multi-scale QR decoding, OKLCH contrast math, and Web Audio pipelines.
 - **[Sunasty Developer Docs](https://sunasty-docs.readthedocs.io/en/latest/)** - Architecture reference and package guides on Read the Docs ([DEV Community](https://dev.to/bsulyan)).
 
 **Open-source Browser Extensions (MIT, Manifest V3)**
